@@ -2,8 +2,8 @@ import transformers
 import torch
 
 # Load the model pipeline
-# model_id = "meta-llama/Llama-3.2-3B-Instruct"
-model_id = "meta-llama/Llama-3.2-11B-Vision-Instruct"
+model_id = "meta-llama/Llama-3.2-3B-Instruct"
+# model_id = "meta-llama/Llama-3.2-11B-Vision-Instruct"
 # model_id = "meta-llama/Llama-3.3-70B-Instruct"
 
 
